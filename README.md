@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+G'day peeps!
+
+jpopesku here, learning a bit about Git.
